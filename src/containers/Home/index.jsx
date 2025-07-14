@@ -1,7 +1,6 @@
-import { CategoriesCarousel } from "../../components/CategoriesCarousel";
-import { OffersCarousel } from "../../components/OffersCarousel";
-import { Banner , Container,  } from "./styles";  
-import { useUser } from "../../hooks/UserContext";
+import { CategoriesCarousel, OffersCarousel } from "../../components";
+import { Banner , Container  } from "./styles";  
+
 
 
 export function Home(){
